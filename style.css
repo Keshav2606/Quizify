@@ -18,4 +18,17 @@
     width: 50%;
     height: 50%;
     border-radius: 12px;
+    padding: 20px;
+}
+
+.options{
+    margin-top: 20px;
+}
+
+.option{
+    margin: 10px;
+}
+
+.option-top .option-bottom{
+    background-color: blue;
 }
